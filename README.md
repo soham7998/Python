@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soham7998
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Data analysis and SYIT 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Diffrent Programming Languages 
+- 💞️ Java!!,C++!,Python!
 - 📫 How to reach me soham shah#2704
 
 <!---
