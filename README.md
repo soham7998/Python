@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @soham7998
--  A Undergraduate Student
-- 🌱 I’m currently learning Different Programming Languages 
-- 💞️ Java!!,C++!,Python!,C#
-- Programmer 
+- 👋 Hi, I’m @soham7998 
+- 💞️ Java!!,Python!.
 - 📫 How to reach me instagram Shah_.soham
 
 <!---
